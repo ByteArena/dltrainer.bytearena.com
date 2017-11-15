@@ -1,4 +1,18 @@
 {
-    "md5": "c53a976b1c5ac3e1b371ee6cb33f86a7",
-    "url": "https://dltrainer.bytearena.com/trainermap.20171101.zip"
+    "maps": [
+        {
+            "name": "island",
+            "title": "The island",
+            "comment": "A full scale map set on an island.",
+            "md5": "5b3883edd8fd9dd582543f3c8d91d32c",
+            "url": "https://dltrainer.bytearena.com/maps/island.zip"
+        },
+        {
+            "name": "training-dojo",
+            "title": "Training dojo",
+            "comment": "A small map with simple geometrical obstacles; easier for the beginning.",
+            "md5": "8768c4c43f6a2f2477232954af0cd67b",
+            "url": "https://dltrainer.bytearena.com/maps/training-dojo.zip"
+        }
+    ]
 }
