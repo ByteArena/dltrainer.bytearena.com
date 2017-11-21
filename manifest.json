@@ -1,18 +1,11 @@
 {
     "maps": [
         {
-            "name": "island",
-            "title": "The island",
-            "comment": "A full scale map set on an island.",
-            "md5": "2300601aa7ff170c943415b07352a827",
-            "url": "https://dltrainer.bytearena.com/maps/island.zip"
-        },
-        {
-            "name": "training-dojo",
-            "title": "Training dojo",
-            "comment": "A small map with simple geometrical obstacles; easier for the beginning.",
-            "md5": "dc30403b26112154f7c8a42d0c6b412c",
-            "url": "https://dltrainer.bytearena.com/maps/training-dojo.zip"
+            "name": "hexagon",
+            "title": "The hexagonal arena",
+            "comment": "Beta map.",
+            "md5": "b9bfd11c6df0c81cefc50ac4b761225e",
+            "url": "https://dltrainer.bytearena.com/maps/hexagon.zip"
         }
     ]
 }
